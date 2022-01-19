@@ -37,4 +37,6 @@ We verified from the spice file that our circuit connections are correct.
   <img src="Pictures\verify.jpeg "> 
 </p>
 
+<p align= "center">
 -----------------------------------------------------------------------x-x-x-x-x----------------------------------------------------------------------------------
+</p>
