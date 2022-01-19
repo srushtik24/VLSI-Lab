@@ -19,13 +19,20 @@ The NOR gate represents the complem ent of the OR operation. Its name is anabbre
 </p>
 
 <p align="center">
-  <img src="Pictures\layout_NOR.png "> 
+  <img src="Pictures\layout_NOR.jpg "> 
 </p>
 <hr/>
 
 ## Magic Layout: 
+NAND:
 <p align="center">
-  <img src="Pictures\Screenshot from 2022-01-19 15-54-15.png "> 
+  <img src="Pictures\NAND.png "> 
 </p>
 <h5 align="center"> We can see the different layers in different colors </h5> 
+
+NOR:
+<p align="center">
+  <img src="Pictures\NOR.png "> 
+</p>
+
 <hr/> 
