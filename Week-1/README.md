@@ -20,3 +20,21 @@ A CMOS inverter is a field-effect transistor that is composed of a metal gate th
 <p align="center">
   <img src="Pictures\Screenshot from 2022-01-19 15-54-15.png "> 
 </p>
+<h5 align="center"> We can see the different layers in different colors </h5> 
+<hr/> 
+
+## Irsim Simulation: 
+The simulation shows how when input is 0, output is 1 and vice versa
+<p align="center">
+  <img src="Pictures\irsim.png "> 
+</p>
+
+<hr/> 
+
+## Verification:
+We verified from the spice file that our circuit connections are correct. 
+<p align="center">
+  <img src="Pictures\verify.png "> 
+</p>
+
+-----------------------------------------------------------------------x-x-x-x-x----------------------------------------------------------------------------------
