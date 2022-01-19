@@ -1,0 +1,18 @@
+* SPICE3 file created from EXP2_2.ext - technology: scmos
+
+.option scale=1u
+
+M1000 a_n7_7# A vdd vdd pfet w=4 l=4
++  ad=44 pd=30 as=20 ps=18
+M1001 Out B a_n7_7# vdd pfet w=4 l=4
++  ad=20 pd=18 as=0 ps=0
+M1002 Out A gnd Gnd nfet w=4 l=4
++  ad=44 pd=30 as=40 ps=36
+M1003 gnd B Out Gnd nfet w=4 l=4
++  ad=0 pd=0 as=0 ps=0
+C0 B vdd 2.22fF
+C1 A vdd 2.22fF
+C2 gnd Gnd 9.40fF
+C3 Out Gnd 5.83fF
+C4 B Gnd 9.10fF
+C5 A Gnd 10.04fF
