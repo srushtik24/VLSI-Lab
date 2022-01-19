@@ -34,7 +34,7 @@ The simulation shows how when input is 0, output is 1 and vice versa
 ## Verification:
 We verified from the spice file that our circuit connections are correct. 
 <p align="center">
-  <img src="Pictures\verify.png "> 
+  <img src="Pictures\verify.jpeg "> 
 </p>
 
 -----------------------------------------------------------------------x-x-x-x-x----------------------------------------------------------------------------------
