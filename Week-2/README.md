@@ -26,13 +26,26 @@ The NOR gate represents the complem ent of the OR operation. Its name is anabbre
 ## Magic Layout: 
 NAND:
 <p align="center">
-  <img src="Pictures\NAND.png "> 
+  <img src="Pictures\NAND2.png "> 
 </p>
 <h5 align="center"> We can see the different layers in different colors </h5> 
 
 NOR:
 <p align="center">
-  <img src="Pictures\NOR.png "> 
+  <img src="Pictures\NOR2.png "> 
+</p>
+
+<hr/> 
+
+## Irsim Simulation: 
+NAND: The simulation shows how only when both inputs are 1, the output is 0.
+<p align="center">
+  <img src="Pictures\irsim_NAND.png "> 
+</p>
+
+NOR: The simulation shows how only when both inputs are 1, the output is 0.
+<p align="center">
+  <img src="Pictures\irsim_NAND.png "> 
 </p>
 
 <hr/> 
