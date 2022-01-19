@@ -40,12 +40,12 @@ NOR:
 ## Irsim Simulation: 
 NAND: The simulation shows how only when both inputs are 1, the output is 0.
 <p align="center">
-  <img src="Pictures\irsim_NAND.png "> 
+  <img src="Pictures\irsim_NAND_2.png "> 
 </p>
 
-NOR: The simulation shows how only when both inputs are 1, the output is 0.
+NOR: The simulation shows how only when both inputs are 0, the output is 1.
 <p align="center">
-  <img src="Pictures\irsim_NAND.png "> 
+  <img src="Pictures\irsim_NOR_2.png "> 
 </p>
 
 <hr/> 
