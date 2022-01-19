@@ -7,7 +7,18 @@ A CMOS inverter is a field-effect transistor that is composed of a metal gate th
 </p>
 
 <p align="center">
+
+    Stick Diagram of CMOS inverter
+
+</p>
+
+<p align="center">
   <img src="Pictures\layout5.png"> 
+</p>
+<p align="center">
+
+    Cross sectional layout of the inverter
+
 </p>
 
 <hr/>
