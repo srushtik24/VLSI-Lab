@@ -28,6 +28,9 @@ Stage 1: A XOR gate can be built using NAND Gates and an AND gate can be built u
 ## OR Gate:
 
 Circuit Design-
+<p align="center">
+  <img src="Pictures\OR.png"> 
+</p>
 
 IRSIM Window-
 
@@ -36,6 +39,9 @@ Analyzer Window-
 ## AND gate:
 
 Circuit Design-
+<p align="center">
+  <img src="Pictures\AND.png"> 
+</p>
 
 IRSIM Window-
 
@@ -44,6 +50,9 @@ Analyzer Window-
 ## XOR Gate:
 
 Circuit Design-
+<p align="center">
+  <img src="Pictures\XOR.png"> 
+</p>
 
 IRSIM Window-
 
@@ -52,6 +61,9 @@ Analyzer Window-
 ## Half Adder:
 
 Circuit Design-
+<p align="center">
+  <img src="Pictures\HA.png"> 
+</p>
 
 IRSIM Window-
 
@@ -60,6 +72,9 @@ Analyzer Window-
 ## Full Adder:
 
 Circuit Design-
+<p align="center">
+  <img src="Pictures\FA.png"> 
+</p>
 
 IRSIM Window-
 
@@ -68,6 +83,9 @@ Analyzer Window-
 ## 4-bit Full Adder:
 
 Circuit Design-
+<p align="center">
+  <img src="Pictures\4bitFA.png"> 
+</p>
 
 IRSIM Window-
 
