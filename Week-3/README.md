@@ -33,8 +33,14 @@ Circuit Design-
 </p>
 
 IRSIM Window-
+<p align="center">
+  <img src="Pictures\OR-SIM.png"> 
+</p>
 
 Analyzer Window-
+<p align="center">
+  <img src="Pictures\OR-ANA.png"> 
+</p>
 
 ## AND gate:
 
@@ -44,8 +50,14 @@ Circuit Design-
 </p>
 
 IRSIM Window-
+<p align="center">
+  <img src="Pictures\AND-SIM.png"> 
+</p>
 
 Analyzer Window-
+<p align="center">
+  <img src="Pictures\AND-ANA.png"> 
+</p>
 
 ## XOR Gate:
 
@@ -55,8 +67,14 @@ Circuit Design-
 </p>
 
 IRSIM Window-
+<p align="center">
+  <img src="Pictures\XOR-SIM.png"> 
+</p>
 
 Analyzer Window-
+<p align="center">
+  <img src="Pictures\XOR-ANA.png"> 
+</p>
 
 ## Half Adder:
 
