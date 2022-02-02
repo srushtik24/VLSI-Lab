@@ -21,7 +21,7 @@ Stage 2: A half adder is built using XOR gates and AND gate. An OR gate can be b
 
 Stage 1: A XOR gate can be built using NAND Gates and an AND gate can be built using NAND and an Invertor (also EXP 1 amd 2)
 <p align="center">
-  <img src="Pictures\XORUsingNAND.png"> 
+  <img src="Pictures\XOR.gif"> 
 </p>
 <hr/>
 
