@@ -84,8 +84,13 @@ Circuit Design-
 </p>
 
 IRSIM Window-
-
+<p align="center">
+  <img src="Pictures\HA-SIM.png"> 
+</p>
 Analyzer Window-
+<p align="center">
+  <img src="Pictures\HA-ANA.png"> 
+</p>
 
 ## Full Adder:
 
@@ -95,8 +100,14 @@ Circuit Design-
 </p>
 
 IRSIM Window-
+<p align="center">
+  <img src="Pictures\FA-SIM.png"> 
+</p>
 
 Analyzer Window-
+<p align="center">
+  <img src="Pictures\FA-ANA.png"> 
+</p>
 
 ## 4-bit Full Adder:
 
@@ -106,5 +117,11 @@ Circuit Design-
 </p>
 
 IRSIM Window-
+<p align="center">
+  <img src="Pictures\4BFA-SIM.png"> 
+</p>
 
 Analyzer Window-
+<p align="center">
+  <img src="Pictures\4BFA-ANA.png"> 
+</p>
